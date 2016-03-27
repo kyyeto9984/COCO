@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         // MING 323
-        // MINGMING dd
+        // MINGMING dddasdasdsadsadasdsa
     }
 
     @Override
